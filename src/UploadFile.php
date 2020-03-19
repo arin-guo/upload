@@ -37,6 +37,7 @@ class UploadFile
 
     // 错误信息
     private $error = '';
+    private $scc= '';
     // 上传成功的文件信息
     private $uploadFileInfo;
 
