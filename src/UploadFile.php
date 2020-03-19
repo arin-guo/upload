@@ -502,6 +502,8 @@ class UploadFile
     private function checkUpload($filename)
     {
         return is_uploaded_file($filename);
+
+
     }
 
     /**
