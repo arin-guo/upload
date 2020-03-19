@@ -1,5 +1,5 @@
 {
-    "name": "aringuo/upload",
+    "name": "aringuo/upload-test",
     "type": "library",
     "require": {
         "php": ">=7.2"
